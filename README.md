@@ -5,7 +5,9 @@ BI). I have a proven track record of leveraging data to drive business decisions
 
 I am passionate about solving real-world problems using data and contributing to a team that shares these values and aspires to make data a core driver of business success such as my expertise in machine learning, deep learning, NLP, and agile methodologies has enabled me to excel in complex, cross-functional projects.With a deep interest in the E-commerce industry, I aspire to help my team pioneer new technologies, improve customer experiences, optimize processes, and deliver innovative solutions, and my commitment to excellence is evident in my work.
 
-In my one-year self-employment mandate, I aim to leverage my diverse data science and analytics skills. I'm committed to significant business growth, expanding my client base, and increasing revenue. I'm financially astute, dedicated to skill development, and a proponent of cutting-edge technology integration. Collaboration and community involvement are key values, and my adaptability allows me to pivot effectively. This mandate reflects my vision, objectives, and values as a self-employed professional.
+I aim to leverage my diverse data science and analytics skills. I'm committed to significant business growth, expanding my client base, and increasing revenue. I'm financially astute, dedicated to skill development, and a proponent of cutting-edge technology integration. Collaboration and community involvement are key values, and my adaptability allows me to pivot effectively. This mandate reflects my vision, objectives, and values as a self-employed professional.
+
+Let's connect on LinkedIn or via email at dammyodunuga@gmail.com!!
 <!--
 **DamilolaOdunuga/DamilolaOdunuga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
