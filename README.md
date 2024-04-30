@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a dedicated and highly motivated AI Expert and Data Scientist with a strong foundation in analytics and economic analysis. My academic journey, including a Master's in Analytics and Economics analysis, has equipped me with a diverse skill set spanning programming (Python, R, SQL), database management (MySQL, SQL Server), and data visualization (Tableau, Power
+I am a dedicated and highly motivated professional with expertise in AI and data analysis, coupled with a solid background in analytics and economic analysis. My academic journey, including a Master's in Analytics and Economics analysis, has equipped me with a diverse skill set spanning programming (Python, R, SQL), database management (MySQL, SQL Server), and data visualization (Tableau, Power
 BI). I have a proven track record of leveraging data to drive business decisions, including innovations like predictive models and diverse machine learning algorithms.
 
 I am passionate about solving real-world problems using data and contributing to a team that shares these values and aspires to make data a core driver of business success such as my expertise in machine learning, deep learning, NLP, and agile methodologies has enabled me to excel in complex, cross-functional projects.With a deep interest in the E-commerce industry, I aspire to help my team pioneer new technologies, improve customer experiences, optimize processes, and deliver innovative solutions, and my commitment to excellence is evident in my work.
